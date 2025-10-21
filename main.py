@@ -1,5 +1,9 @@
 
 
+def foo() -> None:
+    print("Hello, from foo!")
+
+
 def main() -> None:
     print("Hello, World")
 
